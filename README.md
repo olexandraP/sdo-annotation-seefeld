@@ -7,8 +7,10 @@
 Seefeld Website: `http://www.seefeld.com/`
 
 ## Seefeld DMO
+Oleksandras description here!
 
-## ???
+## Umuts Topic here
+Umuts description here!
 
 ## TouristInformationCenter
 The website of the TouristInformationCenter is `http://www.seefeld.com/tirol-service/tourist-info`. The five different **tourist information centers** are **organizations** and should be packed into an array of organizations as **subOrganizations** of the DMO organization annotation.
