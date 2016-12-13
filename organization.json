@@ -1,0 +1,20 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Olympiaregion Seefeld",
+    "legalName": "Tourismusverband Olympiaregion Seefeld",
+    "telephone": "+43 508800",
+    "faxNumber": "+43 50880851",
+    "email": "region@seefeld.com",
+    "url": "http://www.seefeld.com/",
+    "logo": "http://www.seefeld.com/portal/assets/images/environment/logo_xl.svg",
+    "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "AT",
+        "streetAddress": "Heilbadstr. 827",
+        "postalCode": "6100",
+        "addressLocality": "Seefeld",
+        "addressRegion": "Tirol"
+    },
+    "sameAs": ["https://www.facebook.com/ORSeefeld", "https://plus.google.com/+OlympiaregionSeefeld", "https://twitter.com/seefeldtirol", "https://www.instagram.com/visitolympiaregionseefeld/", "https://www.flickr.com/photos/olympiaregion/", "https://www.youtube.com/user/OlympiaregionSeefeld", "http://seefeld.tv/?p=24JDKEVBky", "https://de.pinterest.com/orseefeld/", "https://vimeo.com/olympiaregionseefeld"]
+}
