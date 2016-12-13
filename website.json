@@ -1,0 +1,16 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "WebSite",
+  "url": "http://www.seefeld.com",
+  "image": "http://www.seefeld.com/portal/assets/images/logo.jpg",
+  "name": "Tourismusverband Olympiaregion Seefeld in Tirol, Österreich",
+  "headline": "Tourismusverband Olympiaregion Seefeld in Tirol, Österreich",
+  "description":"Offizielle Website des Tourismusverbandes Olympiaregion Seefeld in Tirol, Urlaub in Österreich. Alle Informationen zu Unterkünften, Aktivitäten, Tourismus und Events Ihrer Urlaubs-Region,",
+  "publisher":{
+    "@type":"TouristInformationCenter",
+    "name":"INFORMATIONSBÜRO SEEFELD"
+  }
+  "potentialAction": {
+    "@type": "SearchAction"
+  }
+}
