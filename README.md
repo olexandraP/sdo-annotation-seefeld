@@ -27,7 +27,7 @@ The annotation of **WebSite** http://seefeld.com. This annotation may be connect
 * inLanguage
 * isAccessibleForFree
 * mainEntity
-* potentialAction
+* potentialAction (annotated as the google's example suggested. not entirely correct annotation)
 
 ### Other properties may be relevant
 * accessibilityAPI
