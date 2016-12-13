@@ -5,12 +5,190 @@
   "image": "http://www.seefeld.com/portal/assets/images/logo.jpg",
   "name": "Tourismusverband Olympiaregion Seefeld in Tirol, Österreich",
   "headline": "Tourismusverband Olympiaregion Seefeld in Tirol, Österreich",
-  "description":"Offizielle Website des Tourismusverbandes Olympiaregion Seefeld in Tirol, Urlaub in Österreich. Alle Informationen zu Unterkünften, Aktivitäten, Tourismus und Events Ihrer Urlaubs-Region,",
-  "publisher":{
-    "@type":"TouristInformationCenter",
-    "name":"INFORMATIONSBÜRO SEEFELD"
-  }
+  "description": "Offizielle Website des Tourismusverbandes Olympiaregion Seefeld in Tirol, Urlaub in Österreich. Alle Informationen zu Unterkünften, Aktivitäten, Tourismus und Events Ihrer Urlaubs-Region",
+  "publisher": {
+    "@type": "TouristInformationCenter",
+    "name": "Informationsbüro Seefeld",
+    "url": "http://www.seefeld.com/a-informationsbuero-seefeld"
+  },
+  "keywords": "tirol, österreich, tourismusverband, tvb, seefeld, leutasch, mösern, buchen, reith, scharnitz",
+  "spatialCoverage": [
+    {
+      "@type": "AdministrativeArea",
+      "name": "Seefeld in Tirol"
+    },
+    {
+      "@type": "AdministrativeArea",
+      "name": "Leutasch"
+    },
+    {
+      "@type": "AdministrativeArea",
+      "name": "Mösern"
+    },
+    {
+      "@type": "AdministrativeArea",
+      "name": "Scharnitz"
+    },
+    {
+      "@type": "AdministrativeArea",
+      "name": "Reith"
+    }
+  ],
+  "contributor": [
+    {
+      "@type": "Person",
+      "name": "Berger Bernhard"
+    },
+    {
+      "@type": "Organization",
+      "name": "BMW AG"
+    },
+    {
+      "@type": "Person",
+      "name": "Ehn Wolfgang"
+    },
+    {
+      "@type": "Person",
+      "name": "Elser Stephan"
+    },
+    {
+      "@type": "Organization",
+      "name": "Flughafen Innsbruck"
+    },
+    {
+      "@type": "Organization",
+      "name": "transavia",
+      "member": {
+        "@type": "Person",
+        "name": "Christoph Plank"
+      }
+    },
+    {
+      "@type": "Organization",
+      "name": "easyjet",
+      "member": {
+        "@type": "Person",
+        "name": "Christian Schöpf"
+      }
+    },
+    {
+      "@type": "Organization",
+      "name": "Fotolia"
+    },
+    {
+      "@type": "Person",
+      "name": "Freudenthaler Norbert"
+    },
+    {
+      "@type": "Person",
+      "name": "Gruber Bernhard"
+    },
+    {
+      "@type": "Person",
+      "name": "Holzknecht Heinz"
+    },
+    {
+      "@type": "Organization",
+      "name": "Naturpark Karwendel",
+      "member": {
+        "@type": "Person",
+        "name": "H. Sonntag"
+      }
+    },
+    {
+      "@type": "Organization",
+      "name": "Tirol Werbung",
+      "member": {
+        "@type": "Person",
+        "name": "Neusser Peter"
+      }
+    },
+    {
+      "@type": "Person",
+      "name": "Umfahrer Peter"
+    },
+    {
+      "@type": "Person",
+      "name": "Zak Heinz"
+    },
+    {
+      "@type": "Organization",
+      "url": "http://www.flatout.tv",
+      "member": {
+        "@type": "Person",
+        "name": "Bernd Huplauf"
+      }
+    },
+    {
+      "@type": "Organization",
+      "url": "http://www.seefeld.tv"
+    }
+  ],
+  "copyrightHolder": {
+    "@type": "Organization",
+    "@id": "http://www.seefeld.com",
+    "legalName": "Tourismusverband Seefeld",
+    "url": "http://www.seefeld.com"
+  },
+  "copyrightYear": 2016,
+  "creator": {
+    "@type": "Organization",
+    "name": "infomax websolutions GmbH",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "Deutschland",
+      "addressLocality": "Grassau",
+      "postalCode": "83224",
+      "streetAddress": "Kirschplatz 8"
+    },
+    "email": "mail@infomax-it.de",
+    "url": "http://www.infomax-online.de",
+    "telephone": "+49 (0) 8641 - 6993-0",
+    "faxNumber": "+49 (0) 8641 - 6993-20"
+  },
+  "inLanguage": [
+    {
+      "@type": "Language",
+      "name": "German",
+      "alternateName": "de"
+    },
+    {
+      "@type": "Language",
+      "name": "English",
+      "alternateName": "en"
+    },
+    {
+      "@type": "Language",
+      "name": "French",
+      "alternateName": "fr"
+    },
+    {
+      "@type": "Language",
+      "name": "Italian",
+      "alternateName": "it"
+    }
+  ],
+  "isAccessibleForFree": "True",
+  "isFamilyFriendly": "True",
+  "mainEntity": {
+    "@type": "Organization",
+    "legalName": "Tourismusverband Seefeld",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "Österreich",
+      "addressLocality": "Seefeld",
+      "postalCode": "A-6100",
+      "streetAddress": "Heilbadstr. 827"
+    },
+    "email": "region@seefeld.com",
+    "url": "http://www.seefeld.com",
+    "telephone": "+43(0)5 08800",
+    "faxNumber": "+43(0)5 0880-851",
+    "vatID": "ATU 56693778"
+  },
   "potentialAction": {
-    "@type": "SearchAction"
+    "@type": "SearchAction",
+    "target": "http://www.seefeld.com/volltextsuche?form=fulltext&query={search_term_string}",
+    "query-input": "required name=search_term_string"
   }
 }
